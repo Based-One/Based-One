@@ -1,3 +1,3 @@
 - Hiya!, I’m @Based-One
 -  I’m interested in Cibersecurity and AI
--  I’m currently learning Full Stack Web Development and Python language
+-  I’m currently learning Full Stack Web Development and Java

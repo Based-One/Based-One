@@ -1,3 +1,2 @@
 - Hiya!, I’m @Based-One
--  I’m interested in Cibersecurity and AI
--  I’m currently learning Full Stack Web Development and Java
+-  I’m currently learning Full Stack Web Development Especially Back-end Development, Embedded systems, Java and C

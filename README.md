@@ -1,2 +1,3 @@
 - Hiya!, I’m @Based-One
 -  I’m currently learning Full Stack Web Development Especially Back-end Development, Embedded systems, Java and C
+-  Deeply interested in bioinformatics 
